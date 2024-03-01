@@ -1,0 +1,10 @@
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\bin\Debug\podberi pary.exe.config
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\bin\Debug\podberi pary.exe
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\bin\Debug\podberi pary.pdb
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi pary.csproj.AssemblyReference.cache
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi_pary.Form1.resources
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi_pary.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi pary.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi pary.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi pary.exe
+C:\Users\ip521-20\source\repos\podberi pary\podberi pary\obj\Debug\podberi pary.pdb
